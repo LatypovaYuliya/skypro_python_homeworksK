@@ -1,0 +1,2 @@
+# skypro_python_homeworksK
+Автоматизация тестирования Python
